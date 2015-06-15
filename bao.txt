@@ -1,4 +1,3 @@
 "The first document. V0.1" 
 "Add more on V0.1. V0.2" 
-"In master branch and merged with branch b1" 
-
+"In master branch and merged with branch 1"
