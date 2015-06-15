@@ -1,3 +1,8 @@
 "The first document. V0.1" 
 "Add more on V0.1. V0.2" 
+<<<<<<< HEAD
 "This is in branch b1" 
+=======
+"This is V0.3"
+"This --> V0.4" 
+>>>>>>> d7059e2196992d68a937279a72a57a28e7d22009
